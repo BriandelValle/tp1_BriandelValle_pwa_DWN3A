@@ -2,7 +2,7 @@
 /* // API KEY // */
 
 const weatherApi = {
-    key: "e2a9acbd1027840dfa29285f0a381a2a",
+    key: "ACA VA TU API_KEY",
     baseUrl: "https://api.openweathermap.org/data/2.5/weather", 
     idioma: "es"
 }
